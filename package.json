@@ -19,7 +19,7 @@
   "author": "Wilson Page",
   "license": "BSD",
   "dependencies": {
-    "utils": "git://github.com/wilsonpage/utils.git"
+    "utils": "github:financial-times/ft-app-utils"
   },
   "devDependencies": {
     "buster": "~0.6.2",
